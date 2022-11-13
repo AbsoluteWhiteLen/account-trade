@@ -28,7 +28,7 @@ dependencies {
     implementation 'com.google.guava:guava:23.0'
 
     // Use JUnit test framework
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13.2'
     
     // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web
 	//implementation group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.7.5'
